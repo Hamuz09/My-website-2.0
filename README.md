@@ -1,6 +1,6 @@
 # Hamuz - Personal Website 2.0
 
-My personal social hub built with HTML5 and CSS.
+This is a redesign of my personal social hub built with HTML5 and CSS.
 
 **[Live Demo](https://hamuz09.github.io/My-website-2.0/)**
 
